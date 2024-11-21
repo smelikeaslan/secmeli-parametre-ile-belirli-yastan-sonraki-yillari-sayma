@@ -1,0 +1,1 @@
+# secmeli-parametre-ile-belirli-yastan-sonraki-yillari-sayma
